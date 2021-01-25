@@ -21,7 +21,7 @@
 
 - `测速工具`：用于 Android 平台测试 ExpressVPN 连接速度的工具
 - `ExpressVPN`：存放 ExpressVPN 官方最新的各平台的安装包（如 Android、Windows、CentOS）
-- `备用梯子`：存放 Android 平台备用的免费 VPN 工具，主要作用是用来在线更新 ExpressVPN，因为 ExpressVPN 在未来一段时间内可能不可用
+- `备用梯子`：存放 Android 平台备用的免费 VPN 工具，主要作用是用于在线更新 ExpressVPN，因为 ExpressVPN 在未来一段时间内可能不可用
 
 ## ExpressVPN 更新方式
 
@@ -40,6 +40,7 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 
 ## ExpressVPN 官方教程
 
+- [ExpressVPN 官网](https://www.expressvpn.com)
 - [Android 平台使用说明](https://www.expressvpn.com/vpn-software/vpn-android)
 - [Windows 平台设置隧道分流](https://www.expressvpn.com/support/troubleshooting/split-tunneling-desktop/#how-to-use-vpn-split-tunneling-windows)
 
@@ -48,3 +49,7 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 - [SpeedTest 的 网页版](https://www.speedtest.net/)
 - SpeedTest 的 Android 版直接从当前仓库下载安装即可
 - SpeedTest 的 Windows 版内置了测速功能，可以很方便地测试各个 VPN 节点的连接速度
+
+## 补充说明
+
+- [Google Play 无限制切换国家/地区（亲测可用）](https://blog.ichr.me/post/bypass-google-play-region-restrictions/)
