@@ -27,7 +27,7 @@
 
 - `ExpressVPN 官网`：从 [ExpressVPN 官网](https://www.expressvpn.com/)下载各个平台最新的安装包即可
 - `Google Play 商店`：当国家/地区显示为中国时，在 Google Play 内是无法搜索到 ExpressVPN 应用的，必须手动切换到其他国家/地区（如美国）才能搜索到
-- `Github 仓库`：当前的 Github 仓库会时不时 Push 最新的 ExpressVPN 安装包，当所有梯子都不可用时，可以直接从此 Github 仓库直接下载最新版的安装包
+- `Github 仓库`：当前的 Github 仓库会时不时 Push 最新的 ExpressVPN 安装包，当所有梯子都不可用时，可以直接从此 Github 仓库下载最新版的安装包
 
 PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而第三种方法不需要梯子，但不能保证安装包是最新的，毕竟是手动更新的
 
@@ -52,4 +52,5 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 
 ## 补充说明
 
-- [Google Play 无限制切换国家/地区（亲测可用）](https://blog.ichr.me/post/bypass-google-play-region-restrictions/)
+- ExpressVPN 官网默认是需要使用梯子才能访问的
+- [Google Play 无限制切换国家/地区教程（亲测可用）](https://blog.ichr.me/post/bypass-google-play-region-restrictions/)
