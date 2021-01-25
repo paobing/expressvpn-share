@@ -52,5 +52,6 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 
 ## 补充说明
 
-- ExpressVPN 官网默认是需要使用梯子才能访问的
+- ExpressVPN 官网默认是需要使用梯子才能访问
 - [Google Play 无限制切换国家/地区教程（亲测可用）](https://blog.ichr.me/post/bypass-google-play-region-restrictions/)
+- Windows、Android 平台直接输入 ExpressVPN 的账号/密码就可以使用，而 Linux 平台则需要输入 ExpressVPN 的激活码
