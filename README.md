@@ -33,10 +33,12 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 
 ## ExpressVPN 使用说明
 
+- ExpressVPN 官网默认是需要使用梯子才能访问
 - 当无法连接 ExpressVPN 的服务器时，多尝试不同的 ExpressVPN 节点
 - 建议优先使用速度较快的 lightway_udp 协议，其次才是 tcp、udp 协议
 - ExpressVPN 支持在 Windows、Mac、Android 平台上使用隧道分流功能（即国内外流量分流）
 - ExpressVPN 支持同一个账号最多 5 个设备同时连接，当第 6 个设备需要连接时，需要等某个设备断开连接后才能连接上
+- Windows、Android 平台直接输入 ExpressVPN 的账号/密码就可以使用，而 Linux 平台则需要输入 ExpressVPN 的激活码
 
 ## ExpressVPN 官方教程
 
@@ -44,14 +46,18 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 - [Android 平台使用说明](https://www.expressvpn.com/vpn-software/vpn-android)
 - [Windows 平台设置隧道分流](https://www.expressvpn.com/support/troubleshooting/split-tunneling-desktop/#how-to-use-vpn-split-tunneling-windows)
 
-## Express 测速说明
+## ExpressVPN 测速说明
 
 - [SpeedTest 的 网页版](https://www.speedtest.net/)
 - SpeedTest 的 Android 版直接从当前仓库下载安装即可
-- SpeedTest 的 Windows 版内置了测速功能，可以很方便地测试各个 VPN 节点的连接速度
+- ExpressVPN 的 Windows 版内置了测速功能，可以很方便地测试各个 VPN 节点的连接速度
 
-## 补充说明
+## ExpressVPN 其他使用教程
 
-- ExpressVPN 官网默认是需要使用梯子才能访问
+- [Web 浏览器直接下载 Google 商店的 APP](https://link.zhihu.com/?target=https%3A//apps.evozi.com/apk-downloader/)
 - [Google Play 无限制切换国家/地区教程（亲测可用）](https://blog.ichr.me/post/bypass-google-play-region-restrictions/)
-- Windows、Android 平台直接输入 ExpressVPN 的账号/密码就可以使用，而 Linux 平台则需要输入 ExpressVPN 的激活码
+
+## 更新日志
+
+- 2021/01/24 更新
+- 2021/04/06 更新
