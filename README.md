@@ -19,9 +19,9 @@
         └── org.zwanoo.android.speedtest_119186_apps.evozi.com.apk
 ```
 
-- `测速工具`：用于 Android 平台测试 ExpressVPN 连接速度的工具
+- `测速工具`：用于 Android 平台测试 ExpressVPN 连接速度的工具（SpeedTest）
 - `ExpressVPN`：存放 ExpressVPN 官方最新的各平台的安装包（如 Android、Windows、CentOS）
-- `备用梯子`：存放 Android 平台备用的免费 VPN 工具，主要作用是用于在线更新 ExpressVPN，因为 ExpressVPN 在未来一段时间内可能不可用
+- `备用梯子`：存放 Android 平台备用的免费 VPN 工具，主要作用是用于在线更新 ExpressVPN，因为 ExpressVPN 旧版本在未来一段的时间内可能不可用
 
 ## ExpressVPN 更新方式
 
@@ -34,7 +34,7 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 ## ExpressVPN 使用说明
 
 - ExpressVPN 官网默认是需要使用梯子才能访问
-- 当无法连接 ExpressVPN 的服务器时，多尝试不同的 ExpressVPN 节点
+- 当无法连接 ExpressVPN 的服务器时，请尝试不同的 ExpressVPN 节点
 - 建议优先使用速度较快的 lightway_udp 协议，其次才是 tcp、udp 协议
 - ExpressVPN 支持在 Windows、Mac、Android 平台上使用隧道分流功能（即国内外流量分流）
 - ExpressVPN 支持同一个账号最多 5 个设备同时连接，当第 6 个设备需要连接时，需要等某个设备断开连接后才能连接上
@@ -61,3 +61,4 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 
 - 2021/01/24 更新
 - 2021/04/06 更新
+- 2021/07/04 更新
