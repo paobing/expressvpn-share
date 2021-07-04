@@ -19,7 +19,7 @@
         └── org.zwanoo.android.speedtest_119186_apps.evozi.com.apk
 ```
 
-- `测速工具`：用于 Android 平台测试 ExpressVPN 连接速度的工具（SpeedTest）
+- `测速工具`：存放用于 Android 平台测试 ExpressVPN 连接速度的工具（SpeedTest）
 - `ExpressVPN`：存放 ExpressVPN 官方最新的各平台的安装包（如 Android、Windows、CentOS）
 - `备用梯子`：存放 Android 平台备用的免费 VPN 工具，主要作用是用于在线更新 ExpressVPN，因为 ExpressVPN 旧版本在未来一段的时间内可能不可用
 
