@@ -54,7 +54,7 @@ PS：上述前两种方法都依赖于有可用梯子的时候才能使用，而
 
 ## ExpressVPN 其他使用教程
 
-- [Web 浏览器直接下载 Google 商店的 APP](https://link.zhihu.com/?target=https%3A//apps.evozi.com/apk-downloader/)
+- [Web 浏览器直接下载 Google 商店的 APP](https://apps.evozi.com/apk-downloader)
 - [Google Play 无限制切换国家/地区教程（亲测可用）](https://blog.ichr.me/post/bypass-google-play-region-restrictions/)
 
 ## 更新日志
