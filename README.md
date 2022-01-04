@@ -38,9 +38,9 @@
 
 ## ExpressVPN 官方教程
 
-- [ExpressVPN 官网](https://www.expressvpn.com)
 - [Android 平台使用说明](https://www.expressvpn.com/vpn-software/vpn-android)
 - [Windows 平台设置隧道分流](https://www.expressvpn.com/support/troubleshooting/split-tunneling-desktop/#how-to-use-vpn-split-tunneling-windows)
+- [ExpressVPN 的官网下载页面](https://www.expressvpn.com)
 
 ## ExpressVPN 测速说明
 
