@@ -23,8 +23,8 @@
 ## ExpressVPN 使用说明
 
 - ExpressVPN 官网默认是需要使用梯子才能访问
-- 当无法连接 ExpressVPN 的服务器时，请尝试不同的 ExpressVPN 节点
 - 建议优先使用速度较快的 `lightway_udp` 协议，其次才是 `tcp`、`udp` 协议
+- 当无法连接 ExpressVPN 的服务器时，请尝试不同的 ExpressVPN 节点，或者更新软件版本
 - ExpressVPN 支持在 Windows、Mac、Android 平台上使用隧道分流功能（即国内外流量分流）
 - ExpressVPN 支持同一个账号最多 5 个设备同时连接，当第 6 个设备需要连接时，需要等某个设备断开连接后才能连接上
 - Windows、Android 平台直接输入 ExpressVPN 的账号/密码就可以使用，而 Linux 平台则需要输入 ExpressVPN 的激活码
@@ -48,3 +48,4 @@
 - 2021/11/01 更新
 - 2022/04/21 更新
 - 2022/07/12 更新
+- 2022/08/16 更新
